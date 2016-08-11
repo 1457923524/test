@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BJC_Finance_Test1", "BJC_Finance_Test1\BJC_Finance_Test1.csproj", "{EBDCDE88-D21C-4A39-9D44-0C8B53561371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{325F16CD-6A6D-4EDD-82D8-4C92100E3077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{BAD17E00-C272-4E1B-AD98-244BADB03BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDCDE88-D21C-4A39-9D44-0C8B53561371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDCDE88-D21C-4A39-9D44-0C8B53561371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDCDE88-D21C-4A39-9D44-0C8B53561371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDCDE88-D21C-4A39-9D44-0C8B53561371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325F16CD-6A6D-4EDD-82D8-4C92100E3077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325F16CD-6A6D-4EDD-82D8-4C92100E3077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325F16CD-6A6D-4EDD-82D8-4C92100E3077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325F16CD-6A6D-4EDD-82D8-4C92100E3077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD17E00-C272-4E1B-AD98-244BADB03BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD17E00-C272-4E1B-AD98-244BADB03BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD17E00-C272-4E1B-AD98-244BADB03BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD17E00-C272-4E1B-AD98-244BADB03BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

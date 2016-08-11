@@ -1,0 +1,7 @@
+D:\ChenMaoFile\project\BJC_Finance_Test1\BLL\bin\Debug\BLL.dll
+D:\ChenMaoFile\project\BJC_Finance_Test1\BLL\bin\Debug\BLL.pdb
+D:\ChenMaoFile\project\BJC_Finance_Test1\BLL\bin\Debug\DAL.dll
+D:\ChenMaoFile\project\BJC_Finance_Test1\BLL\bin\Debug\DAL.pdb
+D:\ChenMaoFile\project\BJC_Finance_Test1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ChenMaoFile\project\BJC_Finance_Test1\BLL\obj\Debug\BLL.dll
+D:\ChenMaoFile\project\BJC_Finance_Test1\BLL\obj\Debug\BLL.pdb
